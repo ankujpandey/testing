@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>This was changed by Arzoo Jangra</h1>
+      <h2>This was changed by Arzoo Jangra</h2>
     </>
   );
 }
